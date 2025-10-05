@@ -115,10 +115,3 @@ The example healthcheck endpoint can be request with the token located in the `H
 curl -H 'Authorization: Bearer ThisMustBeChanged' http://localhost:3000/api/v1/health
 ```
 
-## 6. Project goals
-
-The goal of this project is to provide a clean and up-to-date "starter pack" for REST API projects that are built with NestJS.
-
-## 7. Contributing
-
-Feel free to suggest an improvement, report a bug, or ask something: [https://github.com/saluki/nestjs-template/issues](https://github.com/saluki/nestjs-template/issues)
